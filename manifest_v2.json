@@ -27,6 +27,50 @@
     }
   ],
   "downloads": {
+    "xmb10": {
+      "version": "0.0.1",
+      "file_name": "downloads/LED Wall.face",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "原版包改为加密发放（内容不变）"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "0.0.1",
+      "file_name": "downloads/LED Wall.face",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "原版包改为加密发放（内容不变）"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "0.0.1",
+      "file_name": "downloads/LED Wall.face",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "原版包改为加密发放（内容不变）"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "0.0.1",
+      "file_name": "downloads/LED Wall.face",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "原版包改为加密发放（内容不变）"
+        }
+      ]
+    },
     "xmb9p": {
       "version": "0.0.0",
       "file_name": "downloads/LED Wall Pro.face",
@@ -48,26 +92,6 @@
           "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
         }
       ]
-    },
-    "xmb10": {
-      "version": "0.0.0",
-      "file_name": "downloads/LED Wall.bin",
-      "versionCode": 0
-    },
-    "xmb10nfc": {
-      "version": "0.0.0",
-      "file_name": "downloads/LED Wall.bin",
-      "versionCode": 0
-    },
-    "xmb11": {
-      "version": "0.0.0",
-      "file_name": "downloads/LED Wall.bin",
-      "versionCode": 0
-    },
-    "xmb11nfc": {
-      "version": "0.0.0",
-      "file_name": "downloads/LED Wall.bin",
-      "versionCode": 0
     }
   },
   "ext": {
