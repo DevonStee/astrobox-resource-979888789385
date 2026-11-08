@@ -2,7 +2,7 @@
   "item": {
     "id": "979888789385",
     "restype": "watchface",
-    "name": "LED Wall",
+    "name": "LED 墙 LED Wall",
     "description": "LED WALL_黄色灯墙表盘_像素大数字\n原创_LED jump_小米手环表盘 方块LED像素点压入，沿边... \n黄色小方格拼成一面灯墙, 巨大的镂空数字, 外圈一颗暗灯逐秒走动, 息屏只留暗黄数字\n欢迎在小红书关注我 @叫我Brin就好, 我会主要在 astrobox 平台更新资源\n后续会通过与astrobox内嵌的爱发电平台更新付费表盘的资源\n目前支持小米手环 10 / 11 / 9 Pro / 10 Pro / REDMI Watch 6\n更新：加了 REDMI Watch 6 版",
     "preview": [
       "media/00-预览-RW6-Pro.webp",
@@ -29,13 +29,17 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/LED Wall RW6.face",
-      "versionCode": 0,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "0.0.0",
           "content": "新增 REDMI Watch 6 支持"
+        },
+        {
+          "version": "0.0.1",
+          "content": "修正 REDMI Watch 6 屏幕四角内容被切的问题"
         }
       ]
     },
